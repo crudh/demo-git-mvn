@@ -1,1 +1,1 @@
-Demo: Git and MVN
+Demo: Git and MVN!
