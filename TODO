@@ -1,11 +1,13 @@
 * Show GitHub status
+* Create an issue
 * Create a branch
-* Do a two changes
+* Do two changes
 * Add and commit separately
-* Push
+* Push (-u origin branchname)
 * Change README.md on GitHub
 * Pull
 * Create a PR
 * Review it, and do fixes
 * Merge it
-* Go back to master
+* Go back to master and pull
+* Show commit log
