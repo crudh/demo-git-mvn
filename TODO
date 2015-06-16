@@ -6,6 +6,7 @@
 * Push (-u origin branchname)
 * Change README.md on GitHub
 * Pull
+* Switch between branches and show
 * Create a PR
 * Review it, and do fixes
 * Merge it
